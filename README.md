@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @3mman
+- 👋 Hi, I’m @Eefufa
 - 👀 I’m interested in software development, machine learning and Data science
 - 🌱 I’m currently learning Transport and logistics 
 - 💞️ I’m looking to collaborate on Data projects and Microservices architectures 
